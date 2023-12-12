@@ -1,0 +1,43 @@
+import {CountryDetails} from './CountryDetails';
+import {Gem} from './Gem';
+import {PlayBook} from './PlayBook';
+
+export interface Location {
+  id: number;
+  name: string;
+  description: null;
+  created_at: Date;
+  updated_at: Date;
+  is_active: number;
+  country_id: null;
+  tile_image: string;
+  hero_image: string;
+  mobile_hero_image: string;
+  is_featured: number;
+  mobile_feature_image: string;
+  feature_image: string;
+  country_code: string;
+  lat_long: string;
+  counter: number;
+  city_code: string;
+  photo_credit: null;
+  photo_credit_url: null;
+  slug: string;
+  map: string;
+  seo_title: string;
+  seo_description: string;
+  seo_image: string;
+  onboarding_selectable: number;
+  order_date: Date;
+  photo_credit_font_colour: null;
+  tag_cloud: string;
+  search_selectable: number;
+  country_name: string;
+  country_details: CountryDetails;
+  count_of_playbooks: number;
+  count_of_gems: number;
+  count_of_contributors: number;
+  count_of_stories: number;
+  gems?: Gem[];
+  playbooks?: PlayBook[];
+}

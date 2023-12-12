@@ -1,0 +1,14 @@
+export {default as Settings} from './Settings';
+export {default as ChangeEmail} from './ChangeEmail';
+export {default as PersonalDetail} from './PersonalDetail';
+export {default as Nominate} from './Nominate';
+export {default as HelpAndSupport} from './HelpAndSupport';
+export {default as Contact} from './Contact';
+export {default as Faq} from './Faq';
+export {default as SendFeedback} from './SendFeedback';
+export {default as PlaceInterests} from './PlaceInterests';
+export {default as FieldInterests} from './FieldInterests';
+export {default as DeleteAccount} from './DeleteAccount';
+export {default as CreatePlaybook} from './CreatePlaybook';
+export {default as About} from './About';
+export {default as ResetPassword} from './ResetPassword';

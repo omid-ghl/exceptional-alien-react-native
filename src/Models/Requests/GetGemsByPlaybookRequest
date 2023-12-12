@@ -1,0 +1,3 @@
+export interface GetGemsByPlaybookRequest {
+  playbook_id: number;
+}

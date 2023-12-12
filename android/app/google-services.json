@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "306176179255",
+    "project_id": "exceptionalalien-app",
+    "storage_bucket": "exceptionalalien-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306176179255:android:fbed14c563385f7dca13b2",
+        "android_client_info": {
+          "package_name": "com.exceptionalalien.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306176179255-5ievh2vvgvcq1g41p3sbrntgoo3tj673.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exceptionalalien.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "306176179255-qc5hqssr54hsj3k1hctd8oqan2je0da8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exceptionalalien.app",
+            "certificate_hash": "326308026b9f6c711174946aa2428511d70ccf3b"
+          }
+        },
+        {
+          "client_id": "306176179255-tdhvta8050cf5hmkg5o6rekk48njunea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFJM9TU1BfvAkPwvvSgiWFB9-FbPOGWYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306176179255-tdhvta8050cf5hmkg5o6rekk48njunea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306176179255-leeq06js3r99dgkim8ujisdo4mocr6so.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exceptionalalien.app",
+                "app_store_id": "6443803655"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

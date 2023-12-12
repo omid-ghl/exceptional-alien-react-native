@@ -1,0 +1,1 @@
+export {profileNavigation} from './navigation';

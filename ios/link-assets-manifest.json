@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/fonts/HelveticaMonospacedPro-Rg.otf",
+      "sha1": "ce172ce84f2d428a2faf8eb6ce4e6c26f6c5d1e7"
+    },
+    {
+      "path": "src/Assets/fonts/NeueHaasDisplay-Mediu.ttf",
+      "sha1": "008646aff87cde793e72f5cc5ebe626a9ec6bd01"
+    },
+    {
+      "path": "src/Assets/fonts/NeueHaasDisplay-Roman.ttf",
+      "sha1": "92baa30548df304b049ea65225470f94277b9ffa"
+    }
+  ]
+}
